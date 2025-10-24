@@ -1,0 +1,5 @@
+{
+  "name": "IoT Home Automation Dashboard",
+  "description": "A web-based dashboard to control and monitor an ESP32-based home automation system via MQTT. Control motors, set timers, and view real-time status updates.",
+  "requestFramePermissions": []
+}
